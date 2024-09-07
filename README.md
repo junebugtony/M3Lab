@@ -1,4 +1,4 @@
-# Web Dev Starter Code
+# Responsive Letter Layout Using HTML and CSS
 
 ## Overview
 
